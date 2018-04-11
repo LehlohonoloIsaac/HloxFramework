@@ -1,0 +1,16 @@
+PODS:
+  - HloxFramework (1.0.0)
+
+DEPENDENCIES:
+  - HloxFramework (from `../HloxFramework`)
+
+EXTERNAL SOURCES:
+  HloxFramework:
+    :path: "../HloxFramework"
+
+SPEC CHECKSUMS:
+  HloxFramework: 889c54d05329a1ec0e3352b7b5b8218a36d1cc70
+
+PODFILE CHECKSUM: ca38f29c89586923de7c45e5ce280a43e8dd5cde
+
+COCOAPODS: 1.5.0

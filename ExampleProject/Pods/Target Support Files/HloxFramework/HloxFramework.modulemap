@@ -1,0 +1,6 @@
+framework module HloxFramework {
+  umbrella header "HloxFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
